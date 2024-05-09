@@ -1,16 +1,9 @@
-# consultacep
+# Consulta Cep
 
-A new Flutter project.
+- Objetivo do projeto é fazer uma procura do Cep inserido pelo usuário.
+- Matricula: 120100008
 
-## Getting Started
+![image](https://github.com/ZKros/consultacep/assets/1646461/51e0663d-fcfc-46e6-b6eb-58d52564a03d)
+![image](https://github.com/ZKros/consultacep/assets/1646461/1e554cab-3acd-4777-aebf-981b0fca58eb)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
